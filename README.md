@@ -1,4 +1,4 @@
-# LLM Uncertainty Quantification
+# Uncertainty Quantification in Large Language Models
 
 This project explores methods for **uncertainty quantification** in large language models (LLMs) using **Phi-3-Mini-4k-Instruct (4-bit)**.  
 It analyzes both **token-level** and **sentence-level** uncertainty signals across two distinct tasks:
